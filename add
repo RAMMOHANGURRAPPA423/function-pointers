@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+   float f;
+   int i=7,j=2;
+   f=i/j;
+   printf("f=%f",f);
+
+#include<stdio.h>
+int main(){
+    int i;
+    for(i=97;i<=122;i++){
+        printf("%c\n",i);
+    }
+}
